@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmrshubham335" alt="kmrshubham335" /></a> </p>
 
-- 🌱 I’m currently learning **ExpressJs,ReactJs**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Core Java, HTML,CSS, JavaScript**
+- 💬 Ask me about **Core Java,HTML,CSS,JavaScript,ExpressJs**
 
 - 📫 How to reach me **kumarshubham09133@gmail.com**
 
