@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmrshubham335" alt="kmrshubham335" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and NextJS**
 - 📫 How to reach me **kumarshubham09133@gmail.com**
 
 - ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
